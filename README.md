@@ -1,8 +1,8 @@
 # time-series-prediction
 Multivariate time series prediction using 1D-CNN for gas sensor data analysis
 文件说明：
-- 数据集(真实值)Time_Series_661.dat ：训练集数据
-- 数据集（真实值）Time_Series_662.dat：预测集数据
+- 数据集(真实值)modified_数据集Time_Series661_detail.dat：训练集数据
+- 数据集（真实值）modified_数据集Time_Series662_detail.dat：预测集数据
 
 运行说明：
 - step01：将本项目中所有的文件，移入一个纯净的python项目中
